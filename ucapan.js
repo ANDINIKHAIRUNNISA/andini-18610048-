@@ -1,0 +1,1 @@
+alert("Assalamualaikum ,Saya Andini Khairunnisa 18610048, Untuk Membuka Halaman ini Silahkan Klik OK");
