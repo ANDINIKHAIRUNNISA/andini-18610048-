@@ -1,0 +1,102 @@
+body {
+  font-family: "Lucida Sans";
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #FF69B4;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 30px;
+  padding: 30px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.main {
+  padding: 30px 80px;
+  background: url("https://1.bp.blogspot.com/-yQrKf3zgzTU/X4pd3cbi2OI/AAAAAAAABuw/fFtKVTi697o7O1-tRQllpTSJV13YrQftACLcBGAsYHQ/s320/bg-biru%2Borang%2Bdepan%2Blaptop.jpg") scroll 0 0 #ffffff; background-attachment: fixed ;background-size: cover;
+
+.copy-container h1 {
+  font-size: 100px;
+}
+
+.copy-container h2 {
+  font-size: 60px;
+}
+
+.copy-container span {
+  color: #0000FF;
+}
+
+.contents {
+  height: 400px;
+  margin-top: 100px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.contents-item {
+  float: center;
+  margin-right: 90px;
+}
+
+.contents-item p {
+  font-size: 24px;
+  margin-top: 30px;
+}
+}
+
+.header-isi {
+  background-color: #228B22;
+  color: #fff;
+  height: 1020px;
+}
+/* Responsive navigation menu (for mobile devices) */
+@media screen and (max-width: 200px) {
+  .topnav a, .topnav-right {
+    float: none;
+    display: block;
+  }
+  
+  .topnav-centered a {
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: none;
+  }
+}
+.footer {
+  background-color: #000000;
+  color: #f0ffff;
+  height: 40px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
